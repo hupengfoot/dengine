@@ -37,7 +37,7 @@ LUA_BIN_DIR =       $(PREFIX)/bin
 
 ## MacOSX (Macports)
 #PREFIX =            /opt/local
-CJSON_LDFLAGS =     -bundle -undefined dynamic_lookup
+#CJSON_LDFLAGS =     -bundle -undefined dynamic_lookup
 
 ## Solaris
 #CC           =      gcc
